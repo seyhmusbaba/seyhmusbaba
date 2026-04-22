@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/tarik0/tarik0/main/banner.png)
-![Proje Tanıtım](./lolo.gif)
+![Proje Tanıtım](https://github.com/seyhmusbaba/mku-tto/blob/main/lolo.gif)
 
 <h1 align="center">Hi 👋, I'm Seyhmus</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
